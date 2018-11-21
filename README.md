@@ -1,6 +1,6 @@
 # PHYS220/MATH220/CPSC220 CW 11
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Abby Wheaton, Monica Hiemer, and Royal Cuevas**
 
 ## Specification
 
@@ -52,4 +52,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Abby Wheaton, Monica Hiemer, and Royal Cuevas**
